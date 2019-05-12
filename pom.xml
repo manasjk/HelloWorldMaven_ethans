@@ -21,7 +21,6 @@
          <url>file:////var/lib/jenkins/artifacts/</url>
        </repository>
    </distributionManagement>
-
   
   <dependencies>
     <dependency>
